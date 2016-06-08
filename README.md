@@ -1,2 +1,3 @@
-# Monaca-example01
-ここにはMonacaのサンプルコードが入ります。
+# はじめてのMonacaプログラミング
+ここではMonacaを使ったプログラミングのサンプルを公開しています。
+Hello Worldからラーメンタイマーまで。
